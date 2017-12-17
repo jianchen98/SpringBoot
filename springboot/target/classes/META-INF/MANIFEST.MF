@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: spring-boot
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.github.abel533
+Build-Jdk: 1.6.0_13
+Built-By: Administrator
+Created-By: Maven Integration for Eclipse
+

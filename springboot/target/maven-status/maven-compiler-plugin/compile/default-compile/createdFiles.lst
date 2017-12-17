@@ -1,0 +1,9 @@
+main\java\Application.class
+main\java\serviceImpl\StudentServiceImpl.class
+main\java\service\IStudentService.class
+main\java\entity\Student.class
+main\java\StudentProperties.class
+main\java\entity\User.class
+main\java\controller\UserController.class
+main\java\Config.class
+main\java\mapper\StudentMapper.class
